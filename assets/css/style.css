@@ -107,6 +107,14 @@ footer .jumbotron h4 {
     
   }
 
+
+  #portfolio .album .container .row .col-md-4 .card:hover {
+    box-shadow: 0 0 20px 1px #a6a6a6!important;
+    display: block;
+    margin: auto;
+    transition: 0.5s;
+  }
+
   @media screen and (max-width: 767px){
      
     .vl {
